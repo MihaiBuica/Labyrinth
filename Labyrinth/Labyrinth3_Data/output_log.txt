@@ -1,0 +1,78 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.9135
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Mihai\Desktop\Labyrinth\Labyrinth3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Mihai\Desktop\Labyrinth\Labyrinth3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Mihai\Desktop\Labyrinth\Labyrinth3_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Mihai\Desktop\Labyrinth\Labyrinth3_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Mihai\Desktop\Labyrinth\Labyrinth3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Mihai\Desktop\Labyrinth\Labyrinth3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Mihai\Desktop\Labyrinth\Labyrinth3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Mihai\Desktop\Labyrinth\Labyrinth3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Mihai\Desktop\Labyrinth\Labyrinth3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Mihai\Desktop\Labyrinth\Labyrinth3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Mihai\Desktop\Labyrinth\Labyrinth3_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Mihai\Desktop\Labyrinth\Labyrinth3_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.180 seconds
+Platform assembly: C:\Users\Mihai\Desktop\Labyrinth\Labyrinth3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Mihai\Desktop\Labyrinth\Labyrinth3_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.525357 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 3b58 -> priority: 1 
+  Thread -> id: 3068 -> priority: 1 
+  Thread -> id: 1af0 -> priority: 1 
+  Thread -> id: 2924 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.254999 ms
+
+Unloading 142 unused Assets to reduce memory usage. Loaded Objects now: 885.
+Total: 12.345624 ms (FindLiveObjects: 0.066735 ms CreateObjectMapping: 0.040113 ms MarkObjects: 0.268034 ms  DeleteObjects: 11.969647 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Disparitia.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.555031 ms
+
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 381.
+Total: 4.897917 ms (FindLiveObjects: 0.043760 ms CreateObjectMapping: 0.025162 ms MarkObjects: 0.242871 ms  DeleteObjects: 4.584663 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.407703 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 7043.
+Total: 3.458919 ms (FindLiveObjects: 0.457299 ms CreateObjectMapping: 0.176866 ms MarkObjects: 1.050256 ms  DeleteObjects: 1.773402 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Disparitia.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Disparitia.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Disparitia.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.979671 ms
+
+Unloading 201 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 8.625600 ms (FindLiveObjects: 0.047042 ms CreateObjectMapping: 0.024433 ms MarkObjects: 0.266575 ms  DeleteObjects: 8.286454 ms)
+
